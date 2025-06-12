@@ -1,0 +1,31 @@
+Name,Title,Date of latest revision,Status in the IETF process,Associated group,Associated AD,Date of latest change
+draft-ietf-6lo-mle-hip-dex,An Extension to Mesh Link Establishment (MLE) for Host Identity Protocol Diet Exchange (HIP DEX),2016-04-19,Expired,6lo,,2017-04-13
+draft-ietf-6lo-mesh-link-establishment,Mesh Link Establishment,2015-12-01,Expired,6lo,,2017-04-13
+draft-ietf-6lo-schc-15dot4,Transmission of SCHC-compressed packets over IEEE 802.15.4 networks,2025-03-03,I-D Exists,6lo,,2025-04-25
+draft-ietf-6lo-path-aware-semantic-addressing,Path-Aware Semantic Addressing (PASA) for Low power and Lossy Networks,2025-03-03,I-D Exists,6lo,,2025-03-03
+draft-ietf-6lo-prefix-registration,IPv6 Neighbor Discovery Prefix Registration,2025-06-06,IESG Evaluation::AD Followup,6lo,Éric Vyncke,2025-06-09
+rfc7388,Definition of Managed Objects for IPv6 over Low-Power Wireless Personal Area Networks (6LoWPANs),,RFC 7388 (Proposed Standard),6lo,Brian Haberman,2015-10-14
+rfc7400,6LoWPAN-GHC: Generic Header Compression for IPv6 over Low-Power Wireless Personal Area Networks (6LoWPANs),,RFC 7400 (Proposed Standard),6lo,Brian Haberman,2015-10-14
+rfc7428,Transmission of IPv6 Packets over ITU-T G.9959 Networks,,RFC 7428 (Proposed Standard),6lo,Brian Haberman,2016-09-14
+rfc7668,IPv6 over BLUETOOTH(R) Low Energy,,RFC 7668 (Proposed Standard),6lo,Brian Haberman,2015-10-27
+rfc7973,Assignment of an Ethertype for IPv6 with Low-Power Wireless Personal Area Network (LoWPAN) Encapsulation,,RFC 7973 (Informational),6lo,Suresh Krishnan,2016-11-16
+rfc8025,IPv6 over Low-Power Wireless Personal Area Network (6LoWPAN) Paging Dispatch,,RFC 8025 (Proposed Standard),6lo,Suresh Krishnan,2016-12-02
+rfc8065,Privacy Considerations for IPv6 Adaptation-Layer Mechanisms,,RFC 8065 (Informational),6lo,Suresh Krishnan,2020-09-28
+rfc8066,IPv6 over Low-Power Wireless Personal Area Network (6LoWPAN) ESC Dispatch Code Points and Guidelines,,RFC 8066 (Proposed Standard),6lo,Suresh Krishnan,2017-02-09
+rfc8105,Transmission of IPv6 Packets over Digital Enhanced Cordless Telecommunications (DECT) Ultra Low Energy (ULE),,RFC 8105 (Proposed Standard),6lo,Suresh Krishnan,2018-12-20
+rfc8163,Transmission of IPv6 over Master-Slave/Token-Passing (MS/TP) Networks,,RFC 8163 (Proposed Standard),6lo,Suresh Krishnan,2021-08-07
+rfc8505,Registration Extensions for IPv6 over Low-Power Wireless Personal Area Network (6LoWPAN) Neighbor Discovery,,RFC 8505 (Proposed Standard),6lo,Suresh Krishnan,2021-04-30
+rfc8928,Address-Protected Neighbor Discovery for Low-Power and Lossy Networks,,RFC 8928 (Proposed Standard),6lo,Suresh Krishnan,2025-03-20
+rfc8929,IPv6 Backbone Router,,RFC 8929 (Proposed Standard),6lo,Suresh Krishnan,2022-12-04
+rfc8930,On Forwarding 6LoWPAN Fragments over a Multi-Hop IPv6 Network,,RFC 8930 (Proposed Standard),6lo,Suresh Krishnan,2020-11-23
+rfc8931,IPv6 over Low-Power Wireless Personal Area Network (6LoWPAN) Selective Fragment Recovery,,RFC 8931 (Proposed Standard),6lo,Suresh Krishnan,2020-11-23
+rfc9034,Packet Delivery Deadline Time in the Routing Header for IPv6 over Low-Power Wireless Personal Area Networks (6LoWPANs),,RFC 9034 (Proposed Standard),6lo,Suresh Krishnan,2021-06-10
+rfc9159,IPv6 Mesh over BLUETOOTH(R) Low Energy Using the Internet Protocol Support Profile (IPSP),,RFC 9159 (Proposed Standard),6lo,Erik Kline,2021-12-13
+rfc9354,Transmission of IPv6 Packets over Power Line Communication (PLC) Networks,,RFC 9354 (Proposed Standard),6lo,Erik Kline,2023-01-14
+rfc9428,Transmission of IPv6 Packets over Near Field Communication,,RFC 9428 (Proposed Standard),6lo,Erik Kline,2023-07-20
+rfc9453,Applicability and Use Cases for IPv6 over Networks of Resource-constrained Nodes (6lo),,RFC 9453 (Informational),6lo,Erik Kline,2023-09-21
+draft-ietf-6lo-owc,Transmission of IPv6 Packets over Short-Range Optical Wireless Communications,2025-02-28,I-D Exists,6lo,,2025-04-25
+draft-choi-6lo-owc-security,Security considerations for IPv6 Packets over Short-Range Optical Wireless Communications,2025-02-26,I-D Exists,none,,2025-02-26
+draft-ietf-6lo-nd-gaao,Generic Address Assignment Option for 6LoWPAN Neighbor Discovery,2025-03-16,I-D Exists,6lo,,2025-04-25
+rfc9685,Listener Subscription for IPv6 Neighbor Discovery Multicast and Anycast Addresses,,RFC 9685 (Proposed Standard),6lo,Éric Vyncke,2025-04-15
+draft-ietf-6lo-updating-rfc-8928,Fixing the C-Flag in EARO,2025-05-19,IESG Evaluation::Revised I-D Needed,6lo,Éric Vyncke,2025-06-05
